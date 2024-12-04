@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            text-align: center;
+            text-align: left; /* Изменил выравнивание текста на левое */
             margin-top: 50px;
         }
         #output {
